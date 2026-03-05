@@ -1,5 +1,7 @@
 # dupes-cleaner
 
+![Release](https://img.shields.io/github/v/release/victorscborges/dupes-cleaner.svg)
+![Last commit](https://img.shields.io/github/last-commit/victorscborges/dupes-cleaner/main.svg)
 ![License](https://img.shields.io/github/license/victorscborges/dupes-cleaner)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 
