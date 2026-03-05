@@ -1,0 +1,11 @@
+
+---
+
+## `.gitignore` (simples e suficiente)
+```gitignore
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.DS_Store
