@@ -1,8 +1,6 @@
 # dupes-cleaner
 
-![Release](https://img.shields.io/github/v/release/victorscborges/dupes-cleaner)
 ![License](https://img.shields.io/github/license/victorscborges/dupes-cleaner)
-![Last commit](https://img.shields.io/github/last-commit/victorscborges/dupes-cleaner)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 
 Script em Python para varrer uma pasta raiz (com subpastas), encontrar arquivos duplicados por conteúdo, **manter sempre o mais antigo** e **apagar os demais automaticamente**, mostrando o progresso no console.
